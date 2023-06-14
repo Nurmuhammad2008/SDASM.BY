@@ -27,7 +27,7 @@ export const CategoryFilter: FC<IFilter> = ({ data }) => {
                   [classes.active]: item.id === active
                 })}
                 onClick={() => onClickHandler(item.id)}
-              >
+              >``
                 {item.name}
               </li>)
           })
