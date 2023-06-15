@@ -22,13 +22,13 @@ export interface IHeaderNavData {
 const accountMenu = [
   { "id": 0, "item": "Личный кабинет", "path": "personal", "icon": "grid" },
   { "id": 1, "item": "+ Добавить объявление", "path": "put" },
-  { "id": 2, "item": "Инструкция пользователя", "path": "manual" },
+  { "id": 2, "item": "", "path": "manual" },
   {
     "id": 3,
-    "item": "Поднятия объявлений",
+    "item": "",
     "path": "raise"
   },
-  { "id": 4, "item": "Редактировать профиль", "path": "edit-account" }
+  { "id": 4, "item": "", "path": "edit-account" }
 ]
 
 export const Header: FC = () => {
