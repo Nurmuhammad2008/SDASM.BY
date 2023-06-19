@@ -24,7 +24,7 @@ export const Card: FC = () => {
           </div>
           <div className={classes.descr}>
             <IconSvg id="#mark" className={classes.icon} />
-            <div >Минск, б-р Мулявина, д. 10</div>
+            <div >Чиланзар, д. 10</div>
           </div>
         </div>
         <div className={classes.flex}>

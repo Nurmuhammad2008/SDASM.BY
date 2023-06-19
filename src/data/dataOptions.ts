@@ -1,32 +1,32 @@
 export const cityOptions = [
   {
-    value: "Минск",
-    label: "Минск",
+    value: "Чиланзар",
+    label: "Чиланзар",
     key: "city",
   },
   {
-    value: "Гомель",
-    label: "Гомель",
+    value: "Алмазар",
+    label: "Алмазар",
     key: "city",
   },
   {
-    value: "Гродно",
-    label: "Гродно",
+    value: "Шайхантахур",
+    label: "Шайхантахур",
     key: "city",
   },
   {
-    value: "Могилев",
-    label: "Могилев",
+    value: "Каракамыш",
+    label: "Каракамыш",
     key: "city",
   },
   {
-    value: "Брест",
-    label: "Брест",
+    value: "Юнусабад",
+    label: "Юнусабад",
     key: "city",
   },
   {
-    value: "Витебск",
-    label: "Витебск",
+    value: "Сергели",
+    label: "Сергели",
     key: "city",
   },
 ];
@@ -99,8 +99,8 @@ export const metroOptions = [
     key: "metro",
   },
   {
-    value: "Грушевка",
-    label: "Грушевка",
+    value: "Чиланзар",
+    label: "Чиланзар",
     key: "metro",
   },
   {

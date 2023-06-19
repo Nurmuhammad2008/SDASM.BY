@@ -24,7 +24,7 @@ export const Priorety: FC = () => {
                 </div>
                 <div className={cn(classes.flex, classes.gold)}>
                   <div className={classes.leftCol}>
-                    <span className={classes.city}>Минск</span>
+                    <span className={classes.city}>Чиланзар</span>
                     <span className={classes.price}>25 BYN</span>
                     <span className={classes.days}>30 дней</span>
                   </div>
@@ -36,7 +36,7 @@ export const Priorety: FC = () => {
                 </div>
                 <div className={cn(classes.flex, classes.top)}>
                   <div className={classes.leftCol}>
-                    <span className={classes.city}>Минск</span>
+                    <span className={classes.city}>Чиланзар</span>
                     <span className={classes.price}>50 BYN</span>
                     <span className={classes.days}>30 дней</span>
                   </div>

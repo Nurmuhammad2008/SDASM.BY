@@ -11,12 +11,12 @@ import classes from "./Badges.module.scss"
 
 const badges =
   [
-    { city: "Минск" },
-    { city: "Витебск" },
-    { city: "Гродно" },
-    { city: "Гомель" },
-    { city: "Брест" },
-    { city: "Могилев" },
+    { city: "Чиланзар" },
+    { city: "Сергели" },
+    { city: "Шайхантахур" },
+    { city: "Алмазар" },
+    { city: "Юнусабад" },
+    { city: "Каракамыш" },
   ]
 
 interface IBadges {

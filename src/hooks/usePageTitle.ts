@@ -7,12 +7,12 @@ import { useLocation } from "react-router";
 import { path } from "../constants/pages";
 
 const data = [
-  { city: "Минск", name: "Минске" },
-  { city: "Гомель", name: "Гомеле" },
-  { city: "Брест", name: "Бресте" },
-  { city: "Витебск", name: "Витебске" },
-  { city: "Гродно", name: "Гродно" },
-  { city: "Могилев", name: "Могилеве" },
+  { city: "Чиланзар", name: "Чиланзар" },
+  { city: "Алмазар", name: "Алмазар" },
+  { city: "Юнусабад", name: "Юнусабад" },
+  { city: "Сергели", name: "Сергели" },
+  { city: "Шайхантахур", name: "Шайхантахур" },
+  { city: "Каракамыш", name: "Каракамыше" },
 ];
 
 export const usePageTitle = () => {

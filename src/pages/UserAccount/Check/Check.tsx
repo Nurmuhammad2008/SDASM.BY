@@ -25,7 +25,7 @@ export const Check: FC = () => {
             <div className={classes.fieldValues}>
               <span className={cn(classes.description, classes.style)}>
                 <span className={classes.id}>ID: 4813</span>
-                <span className={classes.address}> Адрес: Минск, бр. Мулявина, д.10</span>
+                <span className={classes.address}> Адрес: Чиланзар д.10</span>
               </span>
               <span className={cn(classes.service, classes.style)}>Размещение</span>
               <span className={cn(classes.rate, classes.style)}>Топ</span>
