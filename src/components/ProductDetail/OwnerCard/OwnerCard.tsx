@@ -10,8 +10,8 @@ export const OwnerCard: FC = () => {
       <img src={avatar} className={classes.image} alt="" />
       <span className={classes.title}>Владелец</span>
       <span className={classes.name}>Dmitriy</span>
-      <a href="mailto:vladimir6234@tut.by" className={classes.email}>dmitriy6234@tut.by</a>
-      <a href="tel:+375292911444" className={classes.tel}>+375 (29) 291-14-44</a>
+      <a href="mailto:vladimir6234@tut.by" className={classes.email}>dmitriy_bratishka@tut.by</a>
+      <a href="tel:+375292911444" className={classes.tel}>+998 (97) 777-77-77</a>
 
       <div className={classes.social}>
         <a
