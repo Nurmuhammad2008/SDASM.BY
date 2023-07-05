@@ -62,7 +62,7 @@ export const Detail: FC = () => {
                     </p>
                   </div>
                   <div className={classes.price}>
-                    {"65.00"} BYN <span>за сутки</span>
+                    {"65.00"} USD <span>за сутки</span>
                   </div>
                 </div>
                 <ul className={classes.listInfo}>

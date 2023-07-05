@@ -50,7 +50,7 @@ export const ListCards: FC<IProps> = ({ data:
             </p>
           </div>
           <div className={classes.price}>
-            {price} BYN <span>за сутки</span>
+            {price} USD <span>за сутки</span>
           </div>
         </div>
         <ul className={classes.listInfo}>

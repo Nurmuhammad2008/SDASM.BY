@@ -32,7 +32,7 @@ export const PriceAddForm: FC = () => {
       <div className={classes.flex}>
         <div className={classes.inputWrapper}>
           <span className={classes.price}>Цена&nbsp;
-            <span className={classes.byn}>BYN</span>
+            <span className={classes.byn}>USD</span>
           </span>
           <input
             type="text"

@@ -92,14 +92,14 @@ export const InvoicePayment: FC = () => {
           <div>
             <ul className={classes.priceList}>
               <li className={classes.priceListItem}>Сумма без скидки:
-                <span className={classes.price}>30 BYN</span>
+                <span className={classes.price}>30 USD</span>
               </li>
               <li className={classes.priceListItem}>Скидка:
-                <span className={classes.price}>5 BYN</span>
+                <span className={classes.price}>5 USD</span>
               </li>
               <li className={classes.priceListItem}>
                 <span className={classes.bold}>Итого к оплате:</span>
-                <span className={classes.bold}>25 BYN</span>
+                <span className={classes.bold}>25 USD</span>
               </li>
             </ul>
           </div>

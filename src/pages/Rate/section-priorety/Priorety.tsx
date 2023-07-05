@@ -25,24 +25,24 @@ export const Priorety: FC = () => {
                 <div className={cn(classes.flex, classes.gold)}>
                   <div className={classes.leftCol}>
                     <span className={classes.city}>Чиланзар</span>
-                    <span className={classes.price}>25 BYN</span>
+                    <span className={classes.price}>25 USD</span>
                     <span className={classes.days}>30 дней</span>
                   </div>
                   <div className={classes.rightCol}>
                     <span className={classes.city}>Областные города</span>
-                    <span className={classes.price}>15 BYN</span>
+                    <span className={classes.price}>15 USD</span>
                     <span className={classes.days}>30 дней</span>
                   </div>
                 </div>
                 <div className={cn(classes.flex, classes.top)}>
                   <div className={classes.leftCol}>
                     <span className={classes.city}>Чиланзар</span>
-                    <span className={classes.price}>50 BYN</span>
+                    <span className={classes.price}>50 USD</span>
                     <span className={classes.days}>30 дней</span>
                   </div>
                   <div className={classes.rightCol}>
                     <span className={classes.city}>Областные города</span>
-                    <span className={classes.price}>35 BYN</span>
+                    <span className={classes.price}>35 USD</span>
                     <span className={classes.days}>30 дней</span>
                   </div>
                 </div>
@@ -58,17 +58,17 @@ export const Priorety: FC = () => {
                 </div>
                 <div className={cn(classes.flex, classes.gold)}>
                   <div className={classes.leftCol}>
-                    <span className={classes.price}>25 BYN</span>
+                    <span className={classes.price}>25 USD</span>
                     <span className={classes.days}>30 дней</span>
                   </div>
                   <div className={classes.rightCol}>
-                    <span className={classes.price}>50 BYN</span>
+                    <span className={classes.price}>50 USD</span>
                     <span className={classes.days}>90 дней</span>
                   </div>
                 </div>
                 <div className={cn(classes.flex, classes.top)}>
                   <div className={classes.rightCol}>
-                    <span className={classes.price}>50 BYN</span>
+                    <span className={classes.price}>50 USD</span>
                     <span className={classes.days}>30 дней</span>
                   </div>
                 </div>

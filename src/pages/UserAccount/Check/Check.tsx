@@ -18,7 +18,7 @@ export const Check: FC = () => {
               <span className={classes.description}>Описание</span>
               <span className={classes.service}>Услуга</span>
               <span className={classes.rate}>Тариф</span>
-              <span className={classes.price}>Цена (BYN)</span>
+              <span className={classes.price}>Цена (USD)</span>
               <span className={classes.quantity}>Количество</span>
               <span className={classes.total}>Итого</span>
             </div>
@@ -37,11 +37,11 @@ export const Check: FC = () => {
 
               <div className={classes.discount}>
                 <span>Скидка:</span>
-                <span>5.00 BYN</span>
+                <span>5.00 USD</span>
               </div>
               <div className={classes.totalPrice}>
                 <span>Итого к оплате:</span>
-                <span>25.00 BYN</span>
+                <span>25.00 USD</span>
               </div>
             </div>
           </div>

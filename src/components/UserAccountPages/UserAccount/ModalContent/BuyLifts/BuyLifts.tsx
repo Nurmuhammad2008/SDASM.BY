@@ -10,10 +10,10 @@ import classes from "./ByLifts.module.scss"
 
 
 const data = [
-  { id: 0, title: "100 поднятий", price: "5 BYN", day: "30 дней", name: "raise" },
-  { id: 1, title: "200 поднятий", price: "10 BYN", day: "30 дней", name: "raise" },
-  { id: 2, title: "Анлим поднятий", desc: "до 10 объявлений в ЛК", price: "50 BYN", day: "30 дней", name: "raise" },
-  { id: 3, title: "Анлим поднятий", desc: "10 объявлений и более", price: "100 BYN", day: "30 дней", name: "raise" }
+  { id: 0, title: "100 поднятий", price: "5 USD", day: "30 дней", name: "raise" },
+  { id: 1, title: "200 поднятий", price: "10 USD", day: "30 дней", name: "raise" },
+  { id: 2, title: "Анлим поднятий", desc: "до 10 объявлений в ЛК", price: "50 USD", day: "30 дней", name: "raise" },
+  { id: 3, title: "Анлим поднятий", desc: "10 объявлений и более", price: "100 USD", day: "30 дней", name: "raise" }
 ]
 
 export const BuyLifts: FC = () => {

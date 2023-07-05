@@ -62,7 +62,7 @@ export const TiledCards: FC<IProps> = ({ data: {
       <div className={classes.cardData}>
         <ul className={classes.info}>
           <li className={classes.price}>
-            {price} BYN
+            {price} USD
             <span>за сутки</span>
           </li>
           <li className={classes.capacity}>
