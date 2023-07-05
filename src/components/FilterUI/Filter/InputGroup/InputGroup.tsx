@@ -22,7 +22,7 @@ export const InputGroup: FC<IPropsInput> = ({ onChangeHandler }) => {
     <div className={cn(classes.autocomplete, {
       [classes.transform]: !homePath
     })}>
-      <span className={classes.label}>Цена за сутки (BYN)</span>
+      <span className={classes.label}>Цена за сутки (USD)</span>
       <span>
         <input
           value={stateData.priceMin}
