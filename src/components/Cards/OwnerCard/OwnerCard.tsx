@@ -20,7 +20,7 @@ export const OwnerCard: FC<IPropsOwnerCard> = (props) => {
       <span className={classes.title}>{props.contacts.title}</span>
       <span className={classes.name}>{props.contacts.name}</span>
       <a href="tel:+375292911444" className={classes.tel}>{props.contacts.tel}</a>
-      <a href="mailto:vladimir6234@tut.by" className={classes.email}>{props.contacts.ownerEmail}</a>
+      <a href="mailto:dmitriy_bratishka@tut.by" className={classes.email}>{props.contacts.ownerEmail}</a>
       <div className={classes.social}>
         <a
           href={props.contacts.viber}
