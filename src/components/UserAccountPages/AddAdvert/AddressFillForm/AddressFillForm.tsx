@@ -24,7 +24,7 @@ export const AddressFillForm: FC = () => {
           href="tel:+375296214833"
           target="_blank"
           rel="noopener noreferrer">
-          +375(29) 621-48-33&nbsp;
+          +998(91) 452-21-04&nbsp;
         </a>
         (смс, viber, telegram, whatsApp)
       </div>

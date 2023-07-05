@@ -21,7 +21,7 @@ export const Contacts: FC = () => {
               <div className={classes.group} >
                 <a href="tel:+375296214833" className={classes.telLink}>
                   <span>
-                    +375(29) 621-48-33 (Андрей)
+                    +998 (93)558-84-94 (Nurmuhammad)
                   </span>
                 </a>
                 <span className={classes.social}>(viber, whatsApp, telegram)</span>
